@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.6.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../AndroidTool/gradle/gradle-6.7.1/caches/transforms-2/files-2.1/eb16f81b9a9aae8be722ec19f7896b7f/material-1.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../AndroidTool/gradle/gradle-6.7.1/caches/transforms-2/files-2.1/eb16f81b9a9aae8be722ec19f7896b7f/material-1.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../AndroidTool/gradle/gradle-6.7.1/caches/transforms-2/files-2.1/eb16f81b9a9aae8be722ec19f7896b7f/material-1.6.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../AndroidTool/gradle/gradle-6.7.1/caches/transforms-2/files-2.1/eb16f81b9a9aae8be722ec19f7896b7f/material-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../AndroidTool/gradle/gradle-6.7.1/caches/modules-2/files-2.1/com.google.android.material/material/1.6.0/976aa22bd46c7748fade98594298bcd36b92f844/material-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

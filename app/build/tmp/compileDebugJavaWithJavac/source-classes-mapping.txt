@@ -1,0 +1,2 @@
+com/example/kotlinlearn/BuildConfig.java
+ com.example.kotlinlearn.BuildConfig
